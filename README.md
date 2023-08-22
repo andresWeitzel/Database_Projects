@@ -1,7 +1,7 @@
 
 <div align = "center">
 
-## <img width="45" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" /> Bases de Datos
+## <img width="40" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" /> Bases de Datos
  <div >
 
 
