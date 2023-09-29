@@ -85,6 +85,50 @@
   </div>
 
   
+
+ </br>
+  
+  </br>
+  
+  </br>
+
+  
+
+
+  <div align="center">
+<p align="center">
+
+ ### { Base de Datos para la gestión de envíos, productos, puntos, rutas, etc, ejemplificando parte de la arquitectura de datos de PedidosYa Envíos  }
+
+  <img src="https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL/blob/master/Diagrams/db_pedidosYaEnvios_DER.png">
+
+  ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+
+ </div>
+
+
+  ### Tecnologías Empleadas 
+  
+  </p>
+
+
+ <div style="display: inline-block;">
+  
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ 
+  </div>
+  </div>
+
+
   
   </br>
   
@@ -141,7 +185,7 @@
   <div align="center">
 <p align="center">
 
- ### { Micro base de datos de MercadoLibre}
+ ### { Micro Base de Datos acerca de Usuarios, Vendedores, Categorías, Productos, etc, ejemplificando parte de la arquitectura de datos de Mercado Libre}
 
   <img src="https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql/blob/master/Diagrams/der.png">
 
@@ -262,6 +306,48 @@
   
 
  </br>
+  
+  </br>
+  
+  </br>
+
+
+ <div align="center">
+<p align="center">
+
+ ### { Micro Base de Datos para el manejo de dispositivos cisco ejemplificando parte de la arquitectura de datos de Cisco.  }
+
+  <img src="https://github.com/andresWeitzel/Microdb_Cisco_Devices_Mysql/blob/master/doc/microdb_cisco_devices_DER.png">
+
+  ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/Microdb_Cisco_Devices_Mysql">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+
+ </div>
+
+
+  ### Tecnologías Empleadas 
+  
+  </p>
+
+
+ <div style="display: inline-block;">
+  
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ 
+  </div>
+  </div>
+
+
+  
+  </br>
   
   </br>
   
