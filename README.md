@@ -7,48 +7,50 @@
 
  </br>
   
-  
-  <div align="center">
-<p align="center">
+<!------START db_Inmobiliaria_PostgreSQL----->
 
- ### { Diseño, Programación y Administración de una DB de Inmobiliaria con PostgreSQL }
+<div align="center">
 
-  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/db_Inmobiliaria/Captura%20de%20pantalla%20(526).png">
+ ### Diseño, Programación y Administración de una DB de Inmobiliaria con PostgreSQL
 
-  ###  Repositorio 
+   <a href="https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL" target="_blank">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/db_Inmobiliaria/Captura%20de%20pantalla%20(526).png" >
+   </a>
+   
+  ###  Repositorio
+
+### [[Repositorio]](https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurDfP4fqQf8Yxm_x7-wOn4_P)
+
   
  <div style="display: inline-block;"> 
    <div>
   <a href="https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
-
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDfP4fqQf8Yxm_x7-wOn4_P">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+   </a>
  </div>
 
 
-  ### Tecnologías Empleadas 
+  ### Stack Empleado
   
-  </p>
-
-
- <div style="display: inline-block;">
-  
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" />
+<div style="display: inline-block;">
+ <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/postgres.png" />
  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
-  </div>
-  </div>
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
+ <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+</div>
 
-  
+  <!------END db_Inmobiliaria_PostgreSQL----->
 
- </br>
-  
-  </br>
-  
-  </br>
-  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
   
   
   <div align="center">
