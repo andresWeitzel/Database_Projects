@@ -17,8 +17,6 @@
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/db_Inmobiliaria/Captura%20de%20pantalla%20(526).png" >
    </a>
    
-  ###  Repositorio
-
 ### [[Repositorio]](https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurDfP4fqQf8Yxm_x7-wOn4_P)
 
   
