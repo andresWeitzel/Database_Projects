@@ -7,7 +7,7 @@
 
  </br>
   
-<!------START db_Inmobiliaria_PostgreSQL----->
+<!------Start db_Inmobiliaria_PostgreSQL----->
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 </div>
 </div>
 
-  <!------END db_Inmobiliaria_PostgreSQL----->
+  <!------End db_Inmobiliaria_PostgreSQL----->
 
 <br>
 <br>
@@ -49,92 +49,92 @@
 <br>
 <br>
 <br>
+
   
+<!------Start db_microelectronica_Oracle----->  
   
   <div align="center">
-<p align="center">
 
- ### { Base de Datos acerca de Productos de Microelectrónica con Oracle XE 21c }
+ ### Base de Datos acerca de Productos de Microelectrónica con Oracle XE 21c
 
+   <a href="https://github.com/andresWeitzel/db_microelectronica_Oracle" target="_blank">
   <img src="https://github.com/andresWeitzel/db_microelectronica_Oracle/blob/master/doc/db_microelectronica_DER.png" >
+   </a>
 
-  ###  Repositorio 
-  
+  ### [[Repositorio]](https://github.com/andresWeitzel/db_microelectronica_Oracle) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurCL6_KUH129DSMV2oE6d8ZD)
+
  <div style="display: inline-block;"> 
    <div>
   <a href="https://github.com/andresWeitzel/db_microelectronica_Oracle" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
-
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCL6_KUH129DSMV2oE6d8ZD" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+   </a>
  </div>
+
+### Stack Empleado
   
-
-  ### Tecnologías Empleadas 
-  
-  </p>
-
-
  <div style="display: inline-block;">
-  
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+</div>
+
+    
+<!------End db_microelectronica_Oracle----->  
  
-  </div>
-  </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
   
+<!------Start db_PedidosYaEnvios_MySQL----->  
 
- </br>
-  
-  </br>
-  
-  </br>
+<div align="center">
 
-  
+ ### Base de Datos para la gestión de envíos, productos, puntos, rutas, etc, ejemplificando parte de la arquitectura de datos de PedidosYa Envíos
 
+<a href="https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL" target="_blank">
+ <img src="ttps://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL/blob/master/Diagrams/db_pedidosYaEnvios_DER.png" >
+</a>
+   
+### [[Repositorio]](https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurAQTKkl-B2FNWAmxA7fo8_U)
 
-  <div align="center">
-<p align="center">
-
- ### { Base de Datos para la gestión de envíos, productos, puntos, rutas, etc, ejemplificando parte de la arquitectura de datos de PedidosYa Envíos  }
-
-  <img src="https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL/blob/master/Diagrams/db_pedidosYaEnvios_DER.png">
-
-  ###  Repositorio 
-  
  <div style="display: inline-block;"> 
    <div>
-  <a href="https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL">
+  <a href="https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
-
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAQTKkl-B2FNWAmxA7fo8_U" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+   </a>
  </div>
 
 
-  ### Tecnologías Empleadas 
+### Stack Empleado
   
-  </p>
-
-
- <div style="display: inline-block;">
-  
+<div style="display: inline-block;">
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" />
  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
-  </div>
-  </div>
+</div>
+</div>
+<!------End db_PedidosYaEnvios_MySQL----->  
 
-
   
-  </br>
-  
-  </br>
-  
-  </br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
   <div align="center">
