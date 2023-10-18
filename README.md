@@ -101,7 +101,7 @@
  ### Base de Datos para la gestión de envíos, productos, puntos, rutas, etc, ejemplificando parte de la arquitectura de datos de PedidosYa Envíos
 
 <a href="https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL" target="_blank">
- <img src="ttps://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL/blob/master/Diagrams/db_pedidosYaEnvios_DER.png" >
+ <img src="https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL/blob/master/Diagrams/db_pedidosYaEnvios_DER.png" >
 </a>
    
 ### [[Repositorio]](https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurAQTKkl-B2FNWAmxA7fo8_U)
