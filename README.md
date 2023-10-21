@@ -6,7 +6,7 @@
 
 </div>
 
-Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Se implementan los siguientes tipos de Sitemas de Gestión de Bases de Datos (SGDB).
+Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Se implementan los siguientes tipos de Sitemas de Gestión de Bases de Datos (SGDB)...
 
  <br>
 
