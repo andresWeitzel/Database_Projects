@@ -159,14 +159,15 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Los tipo
   
 <div style="display: inline-block;">
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 </div>
 <!------End db_PedidosYaEnvios_MySQL----->  
 
   
+ 
 <br>
 <br>
 <br>
@@ -174,48 +175,50 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Los tipo
 <br>
 <br>
 
-
-  <div align="center">
-<p align="center">
-
- ### Base de Datos acerca de Dispositivos Electrónicos con PostgreSQL [🔝](#índice-)
-
-  <img src="https://github.com/andresWeitzel/db_dispositivos_electronicos_postgreSQL/blob/master/doc/db_dispositivos_electronicos_DER.png" >
-
-  ###  Repositorio 
   
+<!------Start db_dispositivos_electronicos_postgreSQL----->  
+
+<div align="center">
+
+### Base de Datos acerca de Dispositivos Electrónicos con PostgreSQL [🔝](#índice-)
+
+<a href="https://github.com/andresWeitzel/db_dispositivos_electronicos_postgreSQL" target="_blank">
+ <img src="https://github.com/andresWeitzel/db_dispositivos_electronicos_postgreSQL/blob/master/doc/db_dispositivos_electronicos_DER.png" >
+</a>
+
+   
+### [[Repositorio]](https://github.com/andresWeitzel/db_dispositivos_electronicos_postgreSQL) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBR40e4pCvfs8yQTM_q2JDw)
+
  <div style="display: inline-block;"> 
    <div>
   <a href="https://github.com/andresWeitzel/db_dispositivos_electronicos_postgreSQL" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
-
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBR40e4pCvfs8yQTM_q2JDw" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+   </a>
  </div>
-  
 
-  ### Tecnologías Empleadas 
   
-  </p>
+### Stack Empleado
 
-
- <div style="display: inline-block;">
-  
+ <div style="display: inline-block;">  
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/postgres.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
-  </div>
-  </div>
+ </div>
+ </div>
 
-  
-  
-  </br>
-  
-  </br>
-  
-  </br>
+   
+<!------End db_dispositivos_electronicos_postgreSQL----->  
 
-  
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
   
   
     
