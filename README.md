@@ -9,6 +9,7 @@
 Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Los tipos de SGDB implementados son PostgreSQL, MySQL, Oracle XE 21c, MongoDB, DynamoDB y SQLite.
 
  <br>
+ 
  <br>
 
 <!------Start Index----->
@@ -19,20 +20,19 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Los tipo
 
  <br>
  
-* [Diseño, Programación y Administración de una DB de Inmobiliaria con PostgreSQL.](#diseño-programación-y-administración-de-una-db-de-inmobiliaria-con-postgresql-)
-* [Base de Datos acerca de Productos de Microelectrónica con Oracle XE 21c.](#base-de-datos-acerca-de-productos-de-microelectrónica-con-oracle-xe-21c-)
-* [Gestión de envíos, productos, puntos, rutas, etc, ejemplificando parte de la arquitectura de datos de PedidosYa Envíos.](#gestión-de-envíos-productos-puntos-rutas-etc-ejemplificando-parte-de-la-arquitectura-de-datos-de-pedidosya-envíos-)
-* [Base de Datos acerca de Dispositivos Electrónicos con PostgreSQL.](#base-de-datos-acerca-de-dispositivos-electrónicos-con-postgresql-)
-* [Micro Base de Datos acerca de Usuarios, Vendedores, Categorías, Productos, etc, ejemplificando parte de la arquitectura de datos de Mercado Libre.](#micro-base-de-datos-acerca-de-usuarios-vendedores-categorías-productos-etc-ejemplificando-parte-de-la-arquitectura-de-datos-de-mercado-libre-)
-* [Micro base de datos para la gestión de Productos (MercadoLibre).](#micro-base-de-datos-para-la-gestión-de-productos-mercadolibre-)
-* [MicroDB acerca de Microelectrónica para el Consumo de MicroServicios con Oracle XE 21c.](#microdb-acerca-de-microelectrónica-para-el-consumo-de-microservicios-con-oracle-xe-21c-)
-* [Micro Base de Datos para el manejo de dispositivos cisco ejemplificando parte de la arquitectura de datos de Cisco.](#micro-base-de-datos-para-el-manejo-de-dispositivos-cisco-ejemplificando-parte-de-la-arquitectura-de-datos-de-cisco-)
-* [MicroDB acerca de Productos Electrónicos con MongoDB.](#microdb-acerca-de-productos-electrónicos-con-mongodb-)
-* [Base de Datos acerca de un Supermercado con PostgreSQL.](#base-de-datos-acerca-de-un-supermercado-con-postgresql-)
-* [MicroDB para App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_Docker_Kubernate_PostgreSQL.](#microdb-para-app_microfrontend_productos_springboot_springsecurity_docker_kubernate_postgresql-)
-* [MicroDB Inmobiliaria para el Consumo de MicroServicios con PostgreSQL.](#microdb-inmobiliaria-para-el-consumo-de-microservicios-con-postgresql-)
-* [Modelado, Diseño y Gestión de una DB de Indumentaria con Mysql.](#modelado-diseño-y-gestión-de-una-db-de-indumentaria-con-mysql-)
-
+* [Diseño, Modelado, Desarrollo, Programación, Gestión y Admin de una db de inmobiliaria ](#diseño-programación-y-administración-de-una-db-de-inmobiliaria-con-postgresql-) [ PostgreSQL ]
+* [Base de Datos acerca de Productos de Microelectrónica](#base-de-datos-acerca-de-productos-de-microelectrónica-con-oracle-xe-21c-) [ Oracle XE21c ]
+* [Gestión de envíos, productos, puntos, rutas, etc, ejemplificando parte de la arquitectura de datos de PedidosYa Envíos.](#gestión-de-envíos-productos-puntos-rutas-etc-ejemplificando-parte-de-la-arquitectura-de-datos-de-pedidosya-envíos-) [ MySQL ]
+* [Base de Datos acerca de Dispositivos Electrónicos.](#base-de-datos-acerca-de-dispositivos-electrónicos-con-postgresql-) [ PostgreSQL ]
+* [Micro Base de Datos acerca de Usuarios, Vendedores, Categorías, Productos, etc, ejemplificando parte de la arquitectura de datos de Mercado Libre.](#micro-base-de-datos-acerca-de-usuarios-vendedores-categorías-productos-etc-ejemplificando-parte-de-la-arquitectura-de-datos-de-mercado-libre-) [ MySQL ]
+* [Micro base de datos para la gestión de Productos (MercadoLibre).](#micro-base-de-datos-para-la-gestión-de-productos-mercadolibre-) [ MySQL ]
+* [MicroDB acerca de Microelectrónica para el Consumo de MicroServicios.](#microdb-acerca-de-microelectrónica-para-el-consumo-de-microservicios-con-oracle-xe-21c-) [ Oracle XE21c ]
+* [Micro Base de Datos para el manejo de dispositivos cisco ejemplificando parte de la arquitectura de datos de Cisco.](#micro-base-de-datos-para-el-manejo-de-dispositivos-cisco-ejemplificando-parte-de-la-arquitectura-de-datos-de-cisco-) [ MySQL ]
+* [MicroDB acerca de Productos Electrónicos.](#microdb-acerca-de-productos-electrónicos-con-mongodb-) [ MongoDB ]
+* [Base de Datos acerca de un Supermercado.](#base-de-datos-acerca-de-un-supermercado-con-postgresql-) [ PostgreSQL ]
+* [MicroDB para App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_Docker_Kubernate_PostgreSQL.](#microdb-para-app_microfrontend_productos_springboot_springsecurity_docker_kubernate_postgresql-) [ PostgreSQL ]
+* [MicroDB Inmobiliaria para el Consumo de MicroServicios.](#microdb-inmobiliaria-para-el-consumo-de-microservicios-con-postgresql-) [ PostgreSQL ]
+* [Modelado, Diseño y Gestión de una DB de Indumentaria](#modelado-diseño-y-gestión-de-una-db-de-indumentaria-con-mysql-) [ MySQL ]
 
 
 <br>
@@ -41,8 +41,9 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Los tipo
 
 <!------Stop Index----->
   
-
-<br>
+ <br>
+ 
+ <br>
 
 <!------Start db_Inmobiliaria_PostgreSQL----->
 
