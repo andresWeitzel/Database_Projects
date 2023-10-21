@@ -6,7 +6,15 @@
 
 </div>
 
-Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Los tipos de SGDB implementados son PostgreSQL, MySQL, Oracle XE 21c, MongoDB y SQLite.
+Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Se implementan los siguientes tipos de Sitemas de Gestión de Bases de Datos (SGDB).
+
+ <br>
+
+| Tipo | SGDB |
+| ------------- | ------------- |
+| SQL | PostgreSQL, MySQL, SQLite, Oracle XE 21C | 
+| NoSQL | MongoDB  |
+
 
  <br>
  
