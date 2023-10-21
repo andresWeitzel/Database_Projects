@@ -20,9 +20,9 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Los tipo
  <br>
 
 
-### Desarrollos - Proyectos.
+### Desarrollos
  
-*   [Diseño, Programación y Administración de una DB de Inmobiliaria con PostgreSQL.](#diseño-programación-y-administración-de-una-db-de-inmobiliaria-con-postgresql-)
+* [Diseño, Programación y Administración de una DB de Inmobiliaria con PostgreSQL.](#diseño-programación-y-administración-de-una-db-de-inmobiliaria-con-postgresql-)
 
 <br>
 
@@ -37,7 +37,7 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Los tipo
 
 <div align="center">
 
-### Diseño, Programación y Administración de una DB de Inmobiliaria con PostgreSQL
+### Diseño, Programación y Administración de una DB de Inmobiliaria con PostgreSQL [🔝](#index-)
 
    <a href="https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL" target="_blank">
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/db_Inmobiliaria/Captura%20de%20pantalla%20(526).png" >
