@@ -16,7 +16,7 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Los tipo
 ## Índice 📜
 
 <details>
- <summary> See </summary>
+ <summary> Ver </summary>
 
  <br>
  
@@ -60,10 +60,10 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Los tipo
   
  <div style="display: inline-block;"> 
    <div>
-  <a href="https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL">
+  <a href="https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDfP4fqQf8Yxm_x7-wOn4_P">
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDfP4fqQf8Yxm_x7-wOn4_P" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
    </a>
  </div>
@@ -219,50 +219,53 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Los tipo
 <br>
 <br>
 <br>
+
   
+<!------Start Microdb_MercadoLibre_Mysql----->  
   
-    
-  
-  <div align="center">
-<p align="center">
+<div align="center">
 
  ### Micro Base de Datos acerca de Usuarios, Vendedores, Categorías, Productos, etc, ejemplificando parte de la arquitectura de datos de Mercado Libre [🔝](#índice-)
 
-  <img src="https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql/blob/master/Diagrams/der.png">
+<a href="https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql" target="_blank">
+ <img src="https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql/blob/master/Diagrams/der.png" >
+</a>
 
-  ###  Repositorio 
-  
+   
+### [[Repositorio]](https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurB90ERZev0lqEpiqrGSYXde)
+
+
  <div style="display: inline-block;"> 
    <div>
-  <a href="https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql">
+  <a href="https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
-
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurB90ERZev0lqEpiqrGSYXde" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+   </a>
  </div>
 
+### Stack Empleado 
 
-  ### Tecnologías Empleadas 
-  
-  </p>
-
-
- <div style="display: inline-block;">
-  
+<div style="display: inline-block;">  
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
-  </div>
-  </div>
+</div>
+</div>
 
   
+<!------End Microdb_MercadoLibre_Mysql----->  
+  
 
- </br>
-  
-  </br>
-  
-  </br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
   
   
   
