@@ -20,19 +20,19 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Los tipo
 
  <br>
  
-* [Diseño, Modelado, Desarrollo, Programación, Gestión y Admin de una db de inmobiliaria ](#diseño-programación-y-administración-de-una-db-de-inmobiliaria-con-postgresql-) [ PostgreSQL ]
+* [Modelado, Desarrollo, Programación, etc, para db de inmobiliaria ](#diseño-programación-y-administración-de-una-db-de-inmobiliaria-con-postgresql-) [ PostgreSQL ]
 * [Base de Datos acerca de Productos de Microelectrónica](#base-de-datos-acerca-de-productos-de-microelectrónica-con-oracle-xe-21c-) [ Oracle XE21c ]
-* [Gestión de envíos, productos, puntos, rutas, etc, ejemplificando parte de la arquitectura de datos de PedidosYa Envíos.](#gestión-de-envíos-productos-puntos-rutas-etc-ejemplificando-parte-de-la-arquitectura-de-datos-de-pedidosya-envíos-) [ MySQL ]
+* [Gestión de envíos, productos, etc, acerca de PedidosYa Envíos.](#gestión-de-envíos-productos-puntos-rutas-etc-ejemplificando-parte-de-la-arquitectura-de-datos-de-pedidosya-envíos-) [ MySQL ]
 * [Base de Datos acerca de Dispositivos Electrónicos.](#base-de-datos-acerca-de-dispositivos-electrónicos-con-postgresql-) [ PostgreSQL ]
-* [Micro Base de Datos acerca de Usuarios, Vendedores, Categorías, Productos, etc, ejemplificando parte de la arquitectura de datos de Mercado Libre.](#micro-base-de-datos-acerca-de-usuarios-vendedores-categorías-productos-etc-ejemplificando-parte-de-la-arquitectura-de-datos-de-mercado-libre-) [ MySQL ]
+* [Micro Base de Datos acerca de Usuarios, Vendedores, etc, acerca de Mercado Libre.](#micro-base-de-datos-acerca-de-usuarios-vendedores-categorías-productos-etc-ejemplificando-parte-de-la-arquitectura-de-datos-de-mercado-libre-) [ MySQL ]
 * [Micro base de datos para la gestión de Productos (MercadoLibre).](#micro-base-de-datos-para-la-gestión-de-productos-mercadolibre-) [ MySQL ]
 * [MicroDB acerca de Microelectrónica para el Consumo de MicroServicios.](#microdb-acerca-de-microelectrónica-para-el-consumo-de-microservicios-con-oracle-xe-21c-) [ Oracle XE21c ]
-* [Micro Base de Datos para el manejo de dispositivos cisco ejemplificando parte de la arquitectura de datos de Cisco.](#micro-base-de-datos-para-el-manejo-de-dispositivos-cisco-ejemplificando-parte-de-la-arquitectura-de-datos-de-cisco-) [ MySQL ]
+* [Micro Base de Datos acerca de dispositivos Cisco.](#micro-base-de-datos-para-el-manejo-de-dispositivos-cisco-ejemplificando-parte-de-la-arquitectura-de-datos-de-cisco-) [ MySQL ]
 * [MicroDB acerca de Productos Electrónicos.](#microdb-acerca-de-productos-electrónicos-con-mongodb-) [ MongoDB ]
-* [Base de Datos acerca de un Supermercado.](#base-de-datos-acerca-de-un-supermercado-con-postgresql-) [ PostgreSQL ]
-* [MicroDB para App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_Docker_Kubernate_PostgreSQL.](#microdb-para-app_microfrontend_productos_springboot_springsecurity_docker_kubernate_postgresql-) [ PostgreSQL ]
+* [Base de Datos para la gestión de Supermercado.](#base-de-datos-acerca-de-un-supermercado-con-postgresql-) [ PostgreSQL ]
+* [MicroDB para la gestión de productos de Supermercado.](#microdb-para-app_microfrontend_productos_springboot_springsecurity_docker_kubernate_postgresql-) [ PostgreSQL ]
 * [MicroDB Inmobiliaria para el Consumo de MicroServicios.](#microdb-inmobiliaria-para-el-consumo-de-microservicios-con-postgresql-) [ PostgreSQL ]
-* [Modelado, Diseño y Gestión de una DB de Indumentaria](#modelado-diseño-y-gestión-de-una-db-de-indumentaria-con-mysql-) [ MySQL ]
+* [Modelado, Diseño y Gestión de una db de Indumentaria](#modelado-diseño-y-gestión-de-una-db-de-indumentaria-con-mysql-) [ MySQL ]
 
 
 <br>
