@@ -12,7 +12,7 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Los tipo
  <br>
 
 <!------Start Index----->
-## Index 📜
+## Índice 📜
 
 <details>
  <summary> See </summary>
@@ -23,6 +23,9 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Los tipo
 ### Desarrollos
  
 * [Diseño, Programación y Administración de una DB de Inmobiliaria con PostgreSQL.](#diseño-programación-y-administración-de-una-db-de-inmobiliaria-con-postgresql-)
+* [Base de Datos acerca de Productos de Microelectrónica con Oracle XE 21c.](#base-de-datos-acerca-de-productos-de-microelectrónica-con-oracle-xe-21c-)
+* [Gestión de envíos, productos, puntos, rutas, etc, ejemplificando parte de la arquitectura de datos de PedidosYa Envíos.](#gestión-de-envíos-productos-puntos-rutas-etc-ejemplificando-parte-de-la-arquitectura-de-datos-de-pedidosya-envíos-)
+
 
 <br>
 
@@ -37,7 +40,7 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Los tipo
 
 <div align="center">
 
-### Diseño, Programación y Administración de una DB de Inmobiliaria con PostgreSQL [🔝](#index-)
+### Diseño, Programación y Administración de una DB de Inmobiliaria con PostgreSQL [🔝](#índice-)
 
    <a href="https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL" target="_blank">
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/db_Inmobiliaria/Captura%20de%20pantalla%20(526).png" >
@@ -81,7 +84,7 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Los tipo
   
   <div align="center">
 
- ### Base de Datos acerca de Productos de Microelectrónica con Oracle XE 21c [🔝](#index-)
+ ### Base de Datos acerca de Productos de Microelectrónica con Oracle XE 21c [🔝](#índice-)
 
    <a href="https://github.com/andresWeitzel/db_microelectronica_Oracle" target="_blank">
   <img src="https://github.com/andresWeitzel/db_microelectronica_Oracle/blob/master/doc/db_microelectronica_DER.png" >
@@ -124,7 +127,7 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Los tipo
 
 <div align="center">
 
- ### Gestión de envíos, productos, puntos, rutas, etc, ejemplificando parte de la arquitectura de datos de PedidosYa Envíos [🔝](#index-)
+ ### Gestión de envíos, productos, puntos, rutas, etc, ejemplificando parte de la arquitectura de datos de PedidosYa Envíos [🔝](#índice-)
 
 <a href="https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL" target="_blank">
  <img src="https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL/blob/master/Diagrams/db_pedidosYaEnvios_DER.png" >
