@@ -2,7 +2,7 @@
 <div align = "center">
 <img src="https://github.com/andresWeitzel/Database_Projects/blob/master/assets/img/database.jpg" >
  
-## <img width="40" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" /> Bases de Datos
+## <img width="30" height="25" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" /> Bases de Datos
 
 </div>
 
@@ -10,10 +10,9 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Se imple
 
  <br>
 
-| Tipo | SGDB |
-| ------------- | ------------- |
-| SQL | PostgreSQL, MySQL, SQLite, Oracle XE 21C | 
-| NoSQL | MongoDB  |
+ * SGDB SQL : PostgreSQL, MySQL, SQLite, Oracle XE 21C, otros.
+ * SGDB NoSQL : MongoDB, otros.
+ * Herramientas : Postman, DBeaver, SQLDeveloper, pgAdmin, otros.
 
 
  <br>
