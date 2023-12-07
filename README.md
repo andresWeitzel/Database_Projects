@@ -12,7 +12,8 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Se imple
 
  * SGDB SQL : PostgreSQL, MySQL, SQLite, Oracle XE 21C, otros.
  * SGDB NoSQL : MongoDB, otros.
- * Herramientas : Postman, DBeaver, SQLDeveloper, pgAdmin, otros.
+ * Herramientas : Postman, Git, Xampp, otros.
+ * IDE's : DBeaver, SQLDeveloper, pgAdmin, otros.
 
 
  <br>
