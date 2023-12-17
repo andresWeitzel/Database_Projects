@@ -5,16 +5,16 @@
 
 <div align="right">
      <a href="./translations/README.es.md" target="_blank">
-       <img src="./doc/assets/img/arg-flag.jpg" width="10%" height="10%" />
+       <img src="./assets/img/arg-flag.jpg" width="10%" height="10%" />
    </a>
     <a href="https://github.com/andresWeitzel/Database_Projects" target="_blank">
-       <img src="./doc/assets/img/eeuu-flag.jpg" width="10%" height="10%" />
+       <img src="./assets/img/eeuu-flag.jpg" width="10%" height="10%" />
    </a>
 </div>
 
 <div align="center">
 
-##  <img width="40" height="38" src="./doc/assets/gifs/database.gif" />  Bases de Datos
+## <img width="40" height="38" src="./assets/gifs/database.gif" />  Bases de Datos
 
 </div>
 
