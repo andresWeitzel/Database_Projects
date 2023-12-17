@@ -1,12 +1,26 @@
 
 <div align = "center">
-<img src="https://github.com/andresWeitzel/Database_Projects/blob/master/assets/img/database.jpg" >
- 
-## <img width="30" height="25" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" /> Bases de Datos
+<img src="./assets/img/database.jpg" >
+</div>
+
+<div align="right">
+     <a href="./translations/README.es.md" target="_blank">
+       <img src="./doc/assets/img/arg-flag.jpg" width="10%" height="10%" />
+   </a>
+    <a href="https://github.com/andresWeitzel/Database_Projects" target="_blank">
+       <img src="./doc/assets/img/eeuu-flag.jpg" width="10%" height="10%" />
+   </a>
+</div>
+
+<div align="center">
+
+##  <img width="40" height="38" src="./doc/assets/gifs/database.gif" />  Bases de Datos
 
 </div>
 
-Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Se implementan los siguientes tipos de Sitemas de Gestión de Bases de Datos (SGDB)...
+<br>
+
+Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Se implementan los siguientes tipos de Sistemas de Gestión de Bases de Datos (SGDB)...
 
  <br>
 
