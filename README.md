@@ -289,16 +289,17 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Se imple
 <br>
 
   
+<!------Start Microdb_MercadoLibre_Productos----->  
   
-  
-  <div align="center">
-<p align="center">
+<div align="center">
 
  ### Micro base de datos para la gestión de Productos (MercadoLibre) [🔝](#índice-)
 
-  <img src="https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql/blob/master/doc/DER/microdb_mercadolibre_productos.png">
+<a href="https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql" target="_blank">
+ <img src="https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql/blob/master/doc/DER/microdb_mercadolibre_productos.png" >
+</a>
 
-  ###  Repositorio 
+### [[Repositorio]](https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql)
   
  <div style="display: inline-block;"> 
    <div>
@@ -309,28 +310,24 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Se imple
  </div>
 
 
-  ### Tecnologías Empleadas 
-  
-  </p>
+  ### Stack Empleado
 
-
- <div style="display: inline-block;">
-  
+<div style="display: inline-block;">  
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
-  </div>
-  </div>
+</div>
+</div>
 
+<!------End Microdb_MercadoLibre_Productos----->  
   
-
- </br>
-  
-  </br>
-  
-  </br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
   
 
   
