@@ -20,7 +20,7 @@
 
 <br>
 
-Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Se implementan los siguientes tipos de Sistemas de Gestión de Bases de Datos (SGDB)...
+Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Se implementan los siguientes tipos de Sistemas de Gestión de Bases de Datos (SGDB).
 
  <br>
 
@@ -55,6 +55,7 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Se imple
 * [MicroDB para la gestión de productos de Supermercado.](#microdb-para-app_microfrontend_productos_springboot_springsecurity_docker_kubernate_postgresql-) [ PostgreSQL ]
 * [MicroDB Inmobiliaria para el Consumo de MicroServicios.](#microdb-inmobiliaria-para-el-consumo-de-microservicios-con-postgresql-) [ PostgreSQL ]
 * [Modelado, Diseño y Gestión de una db de Indumentaria](#modelado-diseño-y-gestión-de-una-db-de-indumentaria-con-mysql-) [ MySQL ]
+* README en construcción y mantenimiento.
 
 
 <br>
