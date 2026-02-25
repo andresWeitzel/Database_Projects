@@ -1,34 +1,35 @@
 
-
 <div align = "center">
-<img src="./assets/img/database.jpg" >
+<img src="../doc/assets/img/database.jpg" >
 </div>
 
+<br>
+
 <div align="right">
-     <a href="./translations/README.es.md" target="_blank">
-       <img src="./assets/img/translation/arg-flag.jpg" width="10%" height="10%" />
+     <a href="./README.es.md" target="_blank">
+      <img src="../doc/assets/img/arg-flag.jpg" width="65" height="40" />
    </a>
-    <a href="https://github.com/andresWeitzel/Database_Projects" target="_blank">
-       <img src="./assets/img/translation/eeuu-flag.jpg" width="10%" height="10%" />
+   <a href="../README.md" target="_blank">
+      <img src="../doc/assets/img/eeuu-flag.jpg" width="65" height="40" />
    </a>
 </div>
 
 <div align="center">
 
-## <img width="45" height="35" src="./assets/gifs/database.gif" />  Bases de Datos
+## <img width="35" height="25" src="../doc/assets/gifs/database.gif" />  Bases de Datos
 
 </div>
 
 <br>
 
-Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Se implementan los siguientes tipos de Sistemas de Gestión de Bases de Datos (SGDB)...
+Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Este espacio reúne prácticas y casos reales orientados al modelado, diseño, normalización y administración de datos, aplicando buenas prácticas para construir estructuras claras, mantenibles y escalables. Se implementan distintos tipos de Sistemas de Gestión de Bases de Datos (SGDB), contemplando escenarios de consulta, persistencia e integración con aplicaciones.
 
  <br>
 
  * SGDB SQL : PostgreSQL, MySQL, SQLite, Oracle XE 21C, otros.
  * SGDB NoSQL : MongoDB, otros.
  * Herramientas : Postman, Git, Xampp, otros.
- * IDE's : DBeaver, SQLDeveloper, pgAdmin, otros.
+ * IDEs : DBeaver, SQLDeveloper, pgAdmin, otros.
 
 
  <br>
@@ -36,26 +37,107 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Se imple
  <br>
 
 <!------Start Index----->
+<a id="index"></a>
 ## Índice 📜
 
 <details>
  <summary> Ver </summary>
 
  <br>
- 
-* [Modelado, Desarrollo, Programación, etc, para db de inmobiliaria ](#diseño-programación-y-administración-de-una-db-de-inmobiliaria-con-postgresql-) [ PostgreSQL ]
-* [Base de Datos acerca de Productos de Microelectrónica](#base-de-datos-acerca-de-productos-de-microelectrónica-con-oracle-xe-21c-) [ Oracle XE21c ]
-* [Gestión de envíos, productos, etc, acerca de PedidosYa Envíos.](#gestión-de-envíos-productos-puntos-rutas-etc-ejemplificando-parte-de-la-arquitectura-de-datos-de-pedidosya-envíos-) [ MySQL ]
-* [Base de Datos acerca de Dispositivos Electrónicos.](#base-de-datos-acerca-de-dispositivos-electrónicos-con-postgresql-) [ PostgreSQL ]
-* [Micro Base de Datos acerca de Usuarios, Vendedores, etc, acerca de Mercado Libre.](#micro-base-de-datos-acerca-de-usuarios-vendedores-categorías-productos-etc-ejemplificando-parte-de-la-arquitectura-de-datos-de-mercado-libre-) [ MySQL ]
-* [Micro base de datos para la gestión de Productos (MercadoLibre).](#micro-base-de-datos-para-la-gestión-de-productos-mercadolibre-) [ MySQL ]
-* [MicroDB acerca de Microelectrónica para el Consumo de MicroServicios.](#microdb-acerca-de-microelectrónica-para-el-consumo-de-microservicios-con-oracle-xe-21c-) [ Oracle XE21c ]
-* [Micro Base de Datos acerca de dispositivos Cisco.](#micro-base-de-datos-para-el-manejo-de-dispositivos-cisco-ejemplificando-parte-de-la-arquitectura-de-datos-de-cisco-) [ MySQL ]
-* [MicroDB acerca de Productos Electrónicos.](#microdb-acerca-de-productos-electrónicos-con-mongodb-) [ MongoDB ]
-* [Base de Datos para la gestión de Supermercado.](#base-de-datos-acerca-de-un-supermercado-con-postgresql-) [ PostgreSQL ]
-* [MicroDB para la gestión de productos de Supermercado.](#microdb-para-app_microfrontend_productos_springboot_springsecurity_docker_kubernate_postgresql-) [ PostgreSQL ]
-* [MicroDB Inmobiliaria para el Consumo de MicroServicios.](#microdb-inmobiliaria-para-el-consumo-de-microservicios-con-postgresql-) [ PostgreSQL ]
-* [Modelado, Diseño y Gestión de una db de Indumentaria](#modelado-diseño-y-gestión-de-una-db-de-indumentaria-con-mysql-) [ MySQL ]
+
+#### 🗂️ Proyectos
+
+* [DB Inmobiliaria (PostgreSQL)](#db-inmobiliaria-postgresql)
+  <div align="left">
+    <img width="20" height="20" src="../doc/assets/icons/database/png/pg-admin.png" />
+    <img width="20" height="20" src="../doc/assets/icons/database/png/postgres.png" />
+    <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+  </div>
+
+* [DB Microelectrónica (Oracle XE 21c)](#db-microelectronica-oracle-xe-21c)
+  <div align="left">
+    <img width="20" height="20" src="../doc/assets/icons/database/png/sql-developer.png" />
+    <img width="20" height="20" src="../doc/assets/icons/database/png/oracle.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+  </div>
+
+* [DB PedidosYa Envíos (MySQL)](#db-pedidosya-envios-mysql)
+  <div align="left">
+    <img width="20" height="20" src="../doc/assets/icons/database/png/mysql.png" />
+    <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+  </div>
+
+* [DB Dispositivos Electrónicos (PostgreSQL)](#db-dispositivos-electronicos-postgresql)
+  <div align="left">
+    <img width="20" height="20" src="../doc/assets/icons/database/png/postgres.png" />
+    <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+  </div>
+
+* [MicroDB Mercado Libre Core (MySQL)](#microdb-mercado-libre-core-mysql)
+  <div align="left">
+    <img width="20" height="20" src="../doc/assets/icons/database/png/mysql.png" />
+    <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+  </div>
+
+* [MicroDB Mercado Libre Productos (MySQL)](#microdb-mercado-libre-productos-mysql)
+  <div align="left">
+    <img width="20" height="20" src="../doc/assets/icons/database/png/mysql.png" />
+    <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+  </div>
+
+* [MicroDB Microelectrónica Microservicios (Oracle XE 21c)](#microdb-microelectronica-microservicios-oracle-xe-21c)
+  <div align="left">
+    <img width="20" height="20" src="../doc/assets/icons/database/png/sql-developer.png" />
+    <img width="20" height="20" src="../doc/assets/icons/database/png/oracle.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+  </div>
+
+* [MicroDB Cisco Devices (MySQL)](#microdb-cisco-devices-mysql)
+  <div align="left">
+    <img width="20" height="20" src="../doc/assets/icons/database/png/mysql.png" />
+    <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+  </div>
+
+* [MicroDB ElectroThings (MongoDB)](#microdb-electrothings-mongodb)
+  <div align="left">
+    <img width="20" height="20" src="../doc/assets/icons/database/png/mongodb-compass.png" />
+    <img width="20" height="20" src="../doc/assets/icons/database/png/mongo.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+  </div>
+
+* [DB Supermercado (PostgreSQL)](#db-supermercado-postgresql)
+  <div align="left">
+    <img width="20" height="20" src="../doc/assets/icons/database/png/postgres.png" />
+    <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+  </div>
+
+* [MicroDB Productos Supermercado (PostgreSQL)](#microdb-productos-supermercado-postgresql)
+  <div align="left">
+    <img width="20" height="20" src="../doc/assets/icons/database/png/postgres.png" />
+    <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+  </div>
+
+* [MicroDB Inmobiliaria Microservicios (PostgreSQL)](#microdb-inmobiliaria-microservicios-postgresql)
+  <div align="left">
+    <img width="20" height="20" src="../doc/assets/icons/database/png/postgres.png" />
+    <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+  </div>
+
+* [DB Indumentaria (MySQL)](#db-indumentaria-mysql)
+  <div align="left">
+    <img width="20" height="20" src="../doc/assets/icons/database/png/mysql.png" />
+    <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+  </div>
 
 
 <br>
@@ -72,558 +154,464 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL. Se imple
 
 <div align="center">
 
-### Diseño, Programación y Administración de una DB de Inmobiliaria con PostgreSQL [🔝](#índice-)
+<a id="db-inmobiliaria-postgresql"></a>
+### DB Inmobiliaria (PostgreSQL) [🔝](#index)
 
-   <a href="https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL" target="_blank">
-  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/db_Inmobiliaria/Captura%20de%20pantalla%20(526).png" >
-   </a>
-   
-### [[Repositorio]](https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurDfP4fqQf8Yxm_x7-wOn4_P)
+<a href="https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL" target="_blank">
+  <img src="../doc/assets/img/projects/DB Inmobiliaria (PostgreSQL).png" >
+</a>
 
-  
- <div style="display: inline-block;"> 
-   <div>
+<div align="right">
+  <img width="20" height="20" src="../doc/assets/icons/database/png/pg-admin.png" />
+  <img width="20" height="20" src="../doc/assets/icons/database/png/postgres.png" />
+  <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+  <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+</div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+    <img width="60" height="60" alt="github" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDfP4fqQf8Yxm_x7-wOn4_P" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-   </a>
- </div>
-
-
-  ### Stack Empleado
-  
-<div style="display: inline-block;">
- <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/postgres.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
- <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
 </div>
 
-  <!------End db_Inmobiliaria_PostgreSQL----->
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-  
-<!------Start db_microelectronica_Oracle----->  
-  
-  <div align="center">
-
- ### Base de Datos acerca de Productos de Microelectrónica con Oracle XE 21c [🔝](#índice-)
-
-   <a href="https://github.com/andresWeitzel/db_microelectronica_Oracle" target="_blank">
-  <img src="https://github.com/andresWeitzel/db_microelectronica_Oracle/blob/master/doc/db_microelectronica_DER.png" >
-   </a>
-
-  ### [[Repositorio]](https://github.com/andresWeitzel/db_microelectronica_Oracle) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurCL6_KUH129DSMV2oE6d8ZD)
-
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/db_microelectronica_Oracle" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCL6_KUH129DSMV2oE6d8ZD" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-   </a>
- </div>
-
-### Stack Empleado
-  
- <div style="display: inline-block;">
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
- <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
- <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
 </div>
 
-    
-<!------End db_microelectronica_Oracle----->  
- 
-<br>
-<br>
+<!------End db_Inmobiliaria_PostgreSQL----->
+
 <br>
 <br>
 <br>
 <br>
 
-  
-<!------Start db_PedidosYaEnvios_MySQL----->  
+<!------Start db_microelectronica_Oracle----->
 
 <div align="center">
 
- ### Gestión de envíos, productos, puntos, rutas, etc, ejemplificando parte de la arquitectura de datos de PedidosYa Envíos [🔝](#índice-)
+<a id="db-microelectronica-oracle-xe-21c"></a>
+### DB Microelectrónica (Oracle XE 21c) [🔝](#index)
+
+<a href="https://github.com/andresWeitzel/db_microelectronica_Oracle" target="_blank">
+  <img src="../doc/assets/img/projects/DB Microelectrónica (Oracle XE 21c).png" >
+</a>
+
+<div align="right">
+  <img width="20" height="20" src="../doc/assets/icons/database/png/sql-developer.png" />
+  <img width="20" height="20" src="../doc/assets/icons/database/png/oracle.png" />
+  <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+</div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/db_microelectronica_Oracle" target="_blank">
+    <img width="60" height="60" alt="github" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+</div>
+
+<!------End db_microelectronica_Oracle----->
+
+<br>
+<br>
+<br>
+<br>
+
+<!------Start db_PedidosYaEnvios_MySQL----->
+
+<div align="center">
+
+<a id="db-pedidosya-envios-mysql"></a>
+### DB PedidosYa Envíos (MySQL) [🔝](#index)
 
 <a href="https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL" target="_blank">
- <img src="https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL/blob/master/Diagrams/db_pedidosYaEnvios_DER.png" >
+  <img src="../doc/assets/img/projects/DB PedidosYa Envíos (MySQL).png" >
 </a>
-   
-### [[Repositorio]](https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurAQTKkl-B2FNWAmxA7fo8_U)
 
- <div style="display: inline-block;"> 
-   <div>
+<div align="right">
+  <img width="20" height="20" src="../doc/assets/icons/database/png/mysql.png" />
+  <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+  <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+</div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+    <img width="60" height="60" alt="github" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAQTKkl-B2FNWAmxA7fo8_U" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-   </a>
- </div>
-
-
-### Stack Empleado
-  
-<div style="display: inline-block;">
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
+
 </div>
-<!------End db_PedidosYaEnvios_MySQL----->  
 
-  
- 
-<br>
-<br>
+<!------End db_PedidosYaEnvios_MySQL----->
+
 <br>
 <br>
 <br>
 <br>
 
-  
-<!------Start db_dispositivos_electronicos_postgreSQL----->  
+<!------Start db_dispositivos_electronicos_postgreSQL----->
 
 <div align="center">
 
-### Base de Datos acerca de Dispositivos Electrónicos con PostgreSQL [🔝](#índice-)
+<a id="db-dispositivos-electronicos-postgresql"></a>
+### DB Dispositivos Electrónicos (PostgreSQL) [🔝](#index)
 
 <a href="https://github.com/andresWeitzel/db_dispositivos_electronicos_postgreSQL" target="_blank">
- <img src="https://github.com/andresWeitzel/db_dispositivos_electronicos_postgreSQL/blob/master/doc/db_dispositivos_electronicos_DER.png" >
+  <img src="../doc/assets/img/projects/DB Dispositivos Electrónicos (PostgreSQL).png" >
 </a>
 
-   
-### [[Repositorio]](https://github.com/andresWeitzel/db_dispositivos_electronicos_postgreSQL) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBR40e4pCvfs8yQTM_q2JDw)
+<div align="right">
+  <img width="20" height="20" src="../doc/assets/icons/database/png/postgres.png" />
+  <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+  <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+</div>
 
- <div style="display: inline-block;"> 
-   <div>
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://github.com/andresWeitzel/db_dispositivos_electronicos_postgreSQL" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+    <img width="60" height="60" alt="github" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBR40e4pCvfs8yQTM_q2JDw" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-   </a>
- </div>
+</div>
 
-  
-### Stack Empleado
+</div>
 
- <div style="display: inline-block;">  
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/postgres.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- </div>
- </div>
-
-   
-<!------End db_dispositivos_electronicos_postgreSQL----->  
-
+<!------End db_dispositivos_electronicos_postgreSQL----->
 
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
 
-  
-<!------Start Microdb_MercadoLibre_Mysql----->  
-  
+<!------Start Microdb_MercadoLibre_Mysql----->
+
 <div align="center">
 
- ### Micro Base de Datos acerca de Usuarios, Vendedores, Categorías, Productos, etc, ejemplificando parte de la arquitectura de datos de Mercado Libre [🔝](#índice-)
+<a id="microdb-mercado-libre-core-mysql"></a>
+### MicroDB Mercado Libre Core (MySQL) [🔝](#index)
 
 <a href="https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql" target="_blank">
- <img src="https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql/blob/master/Diagrams/der.png" >
+  <img src="../doc/assets/img/projects/MicroDB Mercado Libre Core (MySQL).png" >
 </a>
 
-   
-### [[Repositorio]](https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurB90ERZev0lqEpiqrGSYXde)
+<div align="right">
+  <img width="20" height="20" src="../doc/assets/icons/database/png/mysql.png" />
+  <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+  <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+</div>
 
+<br>
 
- <div style="display: inline-block;"> 
-   <div>
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+    <img width="60" height="60" alt="github" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurB90ERZev0lqEpiqrGSYXde" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-   </a>
- </div>
-
-### Stack Empleado 
-
-<div style="display: inline-block;">  
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
 </div>
 
-  
-<!------End Microdb_MercadoLibre_Mysql----->  
-  
+</div>
+
+<!------End Microdb_MercadoLibre_Mysql----->
 
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
 
-  
-  
-  
-  <div align="center">
-<p align="center">
+<!------Start Microdb_MercadoLibre_Productos----->
 
- ### Micro base de datos para la gestión de Productos (MercadoLibre) [🔝](#índice-)
-
-  <img src="https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql/blob/master/doc/DER/microdb_mercadolibre_productos.png">
-
-  ###  Repositorio 
-  
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-
- </div>
-
-
-  ### Tecnologías Empleadas 
-  
-  </p>
-
-
- <div style="display: inline-block;">
-  
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
-  </div>
-  </div>
-
-  
-
- </br>
-  
-  </br>
-  
-  </br>
-  
-
-  
-  
-    
-  <div align="center">
-<p align="center">
-
- ### MicroDB acerca de Microelectrónica para el Consumo de MicroServicios con Oracle XE 21c [🔝](#índice-)
-
-  <img src="https://github.com/andresWeitzel/db_microElectronica_OracleXE/blob/master/doc/componentes_electronicos.png" >
-
-  ###  Repositorio 
-  
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/db_microElectronica_OracleXE" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-
- </div>
-  
-
-  ### Tecnologías Empleadas 
-  
-  </p>
-
-
- <div style="display: inline-block;">
-  
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
- <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
-  </div>
-  </div>
-
-  
-
- </br>
-  
-  </br>
-  
-  </br>
-
-
- <div align="center">
-<p align="center">
-
- ### Micro Base de Datos para el manejo de dispositivos cisco ejemplificando parte de la arquitectura de datos de Cisco. [🔝](#índice-)
-
-  <img src="https://github.com/andresWeitzel/Microdb_Cisco_Devices_Mysql/blob/master/doc/microdb_cisco_devices_DER.png">
-
-  ###  Repositorio 
-  
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/Microdb_Cisco_Devices_Mysql">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-
- </div>
-
-
-  ### Tecnologías Empleadas 
-  
-  </p>
-
-
- <div style="display: inline-block;">
-  
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
-  </div>
-  </div>
-
-
-  
-  </br>
-  
-  </br>
-  
-  </br>
-   
-   
-   
-   <div align="center">
-<p align="center">
-
- ### MicroDB acerca de Productos Electrónicos con MongoDB [🔝](#índice-)
-
-  <img src="https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection_productos/collection.json.png">
-  
-  ###  Repositorio 
-  
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/db_ElectroThings_MongoDB" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-
- </div>
-   
-   
-  ### Tecnologías Empleadas 
-  
-  </p>
-
-
- <div style="display: inline-block;">
-  
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
-  </div>
-  </div>
-
-  
-
-   </br>
-  
-  </br>
-  
-  </br>
-  
-  
-  <div align="center">
-<p align="center">
-
- ### Base de Datos acerca de un Supermercado con PostgreSQL [🔝](#índice-)
-
-  <img src="https://github.com/andresWeitzel/db_supermercado/blob/master/doc/db_supermercado_ER.png">
-
-  
-  ###  Repositorio 
-  
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/db_supermercado" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-
- </div>
-  
-
-  ### Tecnologías Empleadas 
-  
-  </p>
-
-
- <div style="display: inline-block;">
-  
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
-  </div>
-  </div>
-
-  
-  
-   </br>
-  
-  </br>
-  
-  </br>
-  
-  <div align="center">
-<p align="center">
-
- ### MicroDB para App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_Docker_Kubernate_PostgreSQL [🔝](#índice-)
-
-  <img src="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL/blob/master/documentation/listado-productos.png">
-
- ###  Repositorio 
-  
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-
- </div>
-  
-
-  ### Tecnologías Empleadas 
-  
-  </p>
-
-
- <div style="display: inline-block;">
-  
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
-  </div>
-  </div>
-
-  
-  
-   </br>
-  
-  </br>
-  
-  </br>
-  
- 
-  
-  
-  
-    <div align="center">
-<p align="center">
-
- ### MicroDB Inmobiliaria para el Consumo de MicroServicios con PostgreSQL [🔝](#índice-)
-
-  <img src="https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres/blob/master/documentation/db_inmobiliaria_microervicios_DER.png" >
-
-  ###  Repositorio 
-  
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-
- </div>
-  
-
-  ### Tecnologías Empleadas 
-  
-  </p>
-
-
- <div style="display: inline-block;">
-  
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
-  </div>
-  </div>
-
-  
-
- </br>
-  
-  </br>
-  
-  </br>
-  
-  
- 
 <div align="center">
-<p align="center">
 
- ### Modelado, Diseño y Gestión de una DB de Indumentaria con Mysql [🔝](#índice-)
+<a id="microdb-mercado-libre-productos-mysql"></a>
+### MicroDB Mercado Libre Productos (MySQL) [🔝](#index)
 
-  <img src="https://raw.githubusercontent.com/andresWeitzel/Gestion_BaseDeDatos_Mysql/master/documentation/06_logsUpdate.png" >
+<a href="https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql" target="_blank">
+  <img src="../doc/assets/img/projects/MicroDB Mercado Libre Productos (MySQL).png" >
+</a>
 
-  
- ###  Repositorio 
-  
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+<div align="right">
+  <img width="20" height="20" src="../doc/assets/icons/database/png/mysql.png" />
+  <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+  <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+</div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql" target="_blank">
+    <img width="60" height="60" alt="github" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
   </a>
+</div>
 
- </div>
-  
-  
-  ### Tecnologías Empleadas 
-  
-  </p>
+</div>
+
+<!------End Microdb_MercadoLibre_Productos----->
+
+<br>
+<br>
+<br>
+<br>
+
+<!------Start Microdb_Microelectronica_OracleXE----->
+
+<div align="center">
+
+<a id="microdb-microelectronica-microservicios-oracle-xe-21c"></a>
+### MicroDB Microelectrónica Microservicios (Oracle XE 21c) [🔝](#index)
+
+<a href="https://github.com/andresWeitzel/db_microElectronica_OracleXE" target="_blank">
+  <img src="../doc/assets/img/projects/MicroDB Microelectrónica Microservicios (Oracle XE 21c).png" >
+</a>
+
+<div align="right">
+  <img width="20" height="20" src="../doc/assets/icons/database/png/sql-developer.png" />
+  <img width="20" height="20" src="../doc/assets/icons/database/png/oracle.png" />
+  <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+</div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/db_microElectronica_OracleXE" target="_blank">
+    <img width="60" height="60" alt="github" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+</div>
+
+<!------End Microdb_Microelectronica_OracleXE----->
+
+<br>
+<br>
+<br>
+<br>
+
+<!------Start Microdb_Cisco_Devices_Mysql----->
+
+<div align="center">
+
+<a id="microdb-cisco-devices-mysql"></a>
+### MicroDB Cisco Devices (MySQL) [🔝](#index)
+
+<a href="https://github.com/andresWeitzel/Microdb_Cisco_Devices_Mysql" target="_blank">
+  <img src="../doc/assets/img/projects/MicroDB Cisco Devices (MySQL).png">
+</a>
+
+<div align="right">
+  <img width="20" height="20" src="../doc/assets/icons/database/png/mysql.png" />
+  <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+  <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+</div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Microdb_Cisco_Devices_Mysql" target="_blank">
+    <img width="60" height="60" alt="github" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+</div>
+
+<!------End Microdb_Cisco_Devices_Mysql----->
+
+<br>
+<br>
+<br>
+<br>
+
+<!------Start Microdb_ElectroThings_MongoDB----->
+
+<div align="center">
+
+<a id="microdb-electrothings-mongodb"></a>
+### MicroDB ElectroThings (MongoDB) [🔝](#index)
+
+<a href="https://github.com/andresWeitzel/db_ElectroThings_MongoDB" target="_blank">
+  <img src="../doc/assets/img/projects/MicroDB ElectroThings (MongoDB).png">
+</a>
+
+<div align="right">
+  <img width="20" height="20" src="../doc/assets/icons/database/png/mongodb-compass.png" />
+  <img width="20" height="20" src="../doc/assets/icons/database/png/mongo.png" />
+  <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+</div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/db_ElectroThings_MongoDB" target="_blank">
+    <img width="60" height="60" alt="github" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+</div>
+
+<!------End Microdb_ElectroThings_MongoDB----->
+
+<br>
+<br>
+<br>
+<br>
+
+<!------Start db_Supermercado_PostgreSQL----->
+
+<div align="center">
+
+<a id="db-supermercado-postgresql"></a>
+### DB Supermercado (PostgreSQL) [🔝](#index)
+
+<a href="https://github.com/andresWeitzel/db_supermercado" target="_blank">
+  <img src="../doc/assets/img/projects/DB Supermercado (PostgreSQL).png">
+</a>
+
+<div align="right">
+  <img width="20" height="20" src="../doc/assets/icons/database/png/postgres.png" />
+  <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+  <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+</div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/db_supermercado" target="_blank">
+    <img width="60" height="60" alt="github" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+</div>
+
+<!------End db_Supermercado_PostgreSQL----->
+
+<br>
+<br>
+<br>
+<br>
+
+<!------Start Microdb_Productos_Supermercado_PostgreSQL----->
+
+<div align="center">
+
+<a id="microdb-productos-supermercado-postgresql"></a>
+### MicroDB Productos Supermercado (PostgreSQL) [🔝](#index)
+
+<a href="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL" target="_blank">
+  <img src="../doc/assets/img/projects/MicroDB Productos Supermercado (PostgreSQL).png">
+</a>
+
+<div align="right">
+  <img width="20" height="20" src="../doc/assets/icons/database/png/postgres.png" />
+  <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+  <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+</div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL" target="_blank">
+    <img width="60" height="60" alt="github" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+</div>
+
+<!------End Microdb_Productos_Supermercado_PostgreSQL----->
+
+<br>
+<br>
+<br>
+<br>
+
+<!------Start Microdb_Inmobiliaria_Microservicios_PostgreSQL----->
+
+<div align="center">
+
+<a id="microdb-inmobiliaria-microservicios-postgresql"></a>
+### MicroDB Inmobiliaria Microservicios (PostgreSQL) [🔝](#index)
+
+<a href="https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres" target="_blank">
+  <img src="../doc/assets/img/projects/MicroDB Inmobiliaria Microservicios (PostgreSQL).png" >
+</a>
+
+<div align="right">
+  <img width="20" height="20" src="../doc/assets/icons/database/png/postgres.png" />
+  <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+  <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+</div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres" target="_blank">
+    <img width="60" height="60" alt="github" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+</div>
+
+<!------End Microdb_Inmobiliaria_Microservicios_PostgreSQL----->
+
+<br>
+<br>
+<br>
+<br>
+
+<!------Start db_Indumentaria_MySQL----->
+
+<div align="center">
+
+<a id="db-indumentaria-mysql"></a>
+### DB Indumentaria (MySQL) [🔝](#index)
+
+<a href="https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql" target="_blank">
+  <img src="../doc/assets/img/projects/DB Indumentaria (MySQL).png" >
+</a>
+
+<div align="right">
+  <img width="20" height="20" src="../doc/assets/icons/database/png/mysql.png" />
+  <img width="20" height="20" src="../doc/assets/icons/database/png/dbeaver.png" />
+  <img width="20" height="20" src="../doc/assets/icons/devops/png/git.png" />
+</div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql" target="_blank">
+    <img width="60" height="60" alt="github" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+</div>
+
+<!------End db_Indumentaria_MySQL----->
 
 
- <div style="display: inline-block;">
-  
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
-  </div>
-  </div>
