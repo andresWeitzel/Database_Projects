@@ -1,6 +1,6 @@
 
 <div align = "center">
-<img src="./doc/assets/img/database.jpg" >
+<img src="./doc/assets/img/database.png" >
 </div>
 
 <br>
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-## <img width="35" height="25" src="./doc/assets/gifs/database.gif" />  Databases
+## <img width="40" height="36" src="./doc/assets/gifs/database.gif" />  Databases
 
 </div>
 
