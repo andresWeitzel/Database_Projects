@@ -16,20 +16,20 @@
 
 <div align="center">
 
-## <img width="40" height="36" src="./doc/assets/gifs/database.gif" />  Bases de Datos
+## <img width="40" height="36" src="./doc/assets/gifs/database.gif" />  Databases
 
 </div>
 
 <br>
 
-Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelación y diseño de esquemas, normalización, relaciones y administración de datos, aplicando buenas prácticas para construir estructuras claras, mantenibles y escalables. Se implementan distintos tipos de Sistemas de Gestión de Bases de Datos (SGDB), contemplando escenarios de consulta, persistencia e integración con aplicaciones.
+Central repository for SQL/NoSQL database projects: database modeling and schema design, normalization, relationships, and data administration, applying best practices to build clear, maintainable, and scalable structures. Different Database Management System (DBMS) types are implemented, covering query, persistence, and application integration scenarios.
 
  <br>
 
- * SGDB SQL : PostgreSQL, MySQL, SQLite, Oracle XE 21C, otros.
- * SGDB NoSQL : MongoDB, otros.
- * Herramientas : Postman, Git, Xampp, otros.
- * IDEs : DBeaver, SQLDeveloper, pgAdmin, otros.
+ * SQL DBMS : PostgreSQL, MySQL, SQLite, Oracle XE 21C, others.
+ * NoSQL DBMS : MongoDB, others.
+ * Tools : Postman, Git, Xampp, others.
+ * IDEs : DBeaver, SQLDeveloper, pgAdmin, others.
 
 
  <br>
@@ -38,34 +38,34 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 
 <!------Start Index----->
 <a id="index"></a>
-## Índice 📜
+## Index 📜
 
 <details>
- <summary> Ver </summary>
+ <summary> See </summary>
 
  <br>
 
-#### 🗂️ Proyectos
+#### 🗂️ Projects
 
-* [DB Inmobiliaria (PostgreSQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#db-inmobiliaria-postgresql)
+* [Real Estate DB (PostgreSQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#db-inmobiliaria-postgresql)
   <div align="left"><img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/database/png/dbeaver.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png"  style="vertical-align: middle;" border="0" /></div>
 
-* [DB Microelectrónica (Oracle XE 21c) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#db-microelectronica-oracle-xe-21c)
+* [Microelectronics DB (Oracle XE 21c) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#db-microelectronica-oracle-xe-21c)
   <div align="left"><img width="25" height="25" src="./doc/assets/icons/database/png/oracle.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/database/png/sql-developer.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png"  style="vertical-align: middle;" border="0" /></div>
 
-* [DB PedidosYa Envíos (MySQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#db-pedidosya-envios-mysql)
+* [PedidosYa Shipping DB (MySQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#db-pedidosya-envios-mysql)
   <div align="left"><img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/database/png/dbeaver.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png"  style="vertical-align: middle;" border="0" /></div>
 
-* [DB Dispositivos Electrónicos (PostgreSQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#db-dispositivos-electronicos-postgresql)
+* [Electronic Devices DB (PostgreSQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#db-dispositivos-electronicos-postgresql)
   <div align="left"><img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/database/png/dbeaver.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png"  style="vertical-align: middle;" border="0" /></div>
 
 * [MicroDB Mercado Libre Core (MySQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microdb-mercado-libre-core-mysql)
   <div align="left"><img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/database/png/dbeaver.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png"  style="vertical-align: middle;" border="0" /></div>
 
-* [MicroDB Mercado Libre Productos (MySQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microdb-mercado-libre-productos-mysql)
+* [Mercado Libre Products MicroDB (MySQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microdb-mercado-libre-productos-mysql)
   <div align="left"><img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/database/png/dbeaver.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png"  style="vertical-align: middle;" border="0" /></div>
 
-* [MicroDB Microelectrónica Microservicios (Oracle XE 21c) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microdb-microelectronica-microservicios-oracle-xe-21c)
+* [Microelectronics Microservices MicroDB (Oracle XE 21c) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microdb-microelectronica-microservicios-oracle-xe-21c)
   <div align="left"><img width="25" height="25" src="./doc/assets/icons/database/png/oracle.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/database/png/sql-developer.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png"  style="vertical-align: middle;" border="0" /></div>
 
 * [MicroDB Cisco Devices (MySQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microdb-cisco-devices-mysql)
@@ -80,10 +80,10 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 * [MicroDB Productos Supermercado (PostgreSQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microdb-productos-supermercado-postgresql)
   <div align="left"><img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/database/png/dbeaver.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png"  style="vertical-align: middle;" border="0" /></div>
 
-* [MicroDB Inmobiliaria Microservicios (PostgreSQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microdb-inmobiliaria-microservicios-postgresql)
+* [Real Estate Microservices MicroDB (PostgreSQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microdb-inmobiliaria-microservicios-postgresql)
   <div align="left"><img width="25" height="25" src="./doc/assets/icons/database/png/postgres.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/database/png/dbeaver.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png"  style="vertical-align: middle;" border="0" /></div>
 
-* [DB Indumentaria (MySQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#db-indumentaria-mysql)
+* [Apparel DB (MySQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#db-indumentaria-mysql)
   <div align="left"><img width="25" height="25" src="./doc/assets/icons/database/png/mysql.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/database/png/dbeaver.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png"  style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/git.png"  style="vertical-align: middle;" border="0" /></div>
 
 <br>
@@ -98,7 +98,7 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 
 <div align="center">
     
-  ## 🗂️ Proyectos
+  ## 🗂️ Projects
 
 </div>
 
@@ -109,7 +109,7 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 <div align="center">
 
 <a id="db-inmobiliaria-postgresql"></a>
-### DB Inmobiliaria (PostgreSQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
+### Real Estate DB (PostgreSQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
 
 <a href="https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL" target="_blank">
   <img src="./doc/assets/img/projects/DB Inmobiliaria (PostgreSQL).png" >
@@ -119,10 +119,10 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 
 <br>
 
-### Detalles
+### Details
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL" target="_blank" rel="noopener noreferrer" title="Code"><img src="./doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a>
 </div>
 
 </div>
@@ -139,7 +139,7 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 <div align="center">
 
 <a id="db-microelectronica-oracle-xe-21c"></a>
-### DB Microelectrónica (Oracle XE 21c) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
+### Microelectronics DB (Oracle XE 21c) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
 
 <a href="https://github.com/andresWeitzel/db_microelectronica_Oracle" target="_blank">
   <img src="./doc/assets/img/projects/DB Microelectrónica (Oracle XE 21c).png" >
@@ -149,10 +149,10 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 
 <br>
 
-### Detalles
+### Details
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/db_microelectronica_Oracle" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/db_microelectronica_Oracle" target="_blank" rel="noopener noreferrer" title="Code"><img src="./doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a>
 </div>
 
 </div>
@@ -169,7 +169,7 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 <div align="center">
 
 <a id="db-pedidosya-envios-mysql"></a>
-### DB PedidosYa Envíos (MySQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
+### PedidosYa Shipping DB (MySQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
 
 <a href="https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL" target="_blank">
   <img src="./doc/assets/img/projects/DB PedidosYa Envíos (MySQL).png" >
@@ -179,10 +179,10 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 
 <br>
 
-### Detalles
+### Details
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL" target="_blank" rel="noopener noreferrer" title="Code"><img src="./doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a>
 </div>
 
 </div>
@@ -199,7 +199,7 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 <div align="center">
 
 <a id="db-dispositivos-electronicos-postgresql"></a>
-### DB Dispositivos Electrónicos (PostgreSQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
+### Electronic Devices DB (PostgreSQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
 
 <a href="https://github.com/andresWeitzel/db_dispositivos_electronicos_postgreSQL" target="_blank">
   <img src="./doc/assets/img/projects/DB Dispositivos Electrónicos (PostgreSQL).png" >
@@ -209,10 +209,10 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 
 <br>
 
-### Detalles
+### Details
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/db_dispositivos_electronicos_postgreSQL" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/db_dispositivos_electronicos_postgreSQL" target="_blank" rel="noopener noreferrer" title="Code"><img src="./doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a>
 </div>
 
 </div>
@@ -239,10 +239,10 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 
 <br>
 
-### Detalles
+### Details
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql" target="_blank" rel="noopener noreferrer" title="Code"><img src="./doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a>
 </div>
 
 </div>
@@ -259,7 +259,7 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 <div align="center">
 
 <a id="microdb-mercado-libre-productos-mysql"></a>
-### MicroDB Mercado Libre Productos (MySQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
+### Mercado Libre Products MicroDB (MySQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
 
 <a href="https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql" target="_blank">
   <img src="./doc/assets/img/projects/MicroDB Mercado Libre Productos (MySQL).png" >
@@ -269,10 +269,10 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 
 <br>
 
-### Detalles
+### Details
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql" target="_blank" rel="noopener noreferrer" title="Code"><img src="./doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a>
 </div>
 
 </div>
@@ -289,7 +289,7 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 <div align="center">
 
 <a id="microdb-microelectronica-microservicios-oracle-xe-21c"></a>
-### MicroDB Microelectrónica Microservicios (Oracle XE 21c) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
+### Microelectronics Microservices MicroDB (Oracle XE 21c) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
 
 <a href="https://github.com/andresWeitzel/db_microElectronica_OracleXE" target="_blank">
   <img src="./doc/assets/img/projects/MicroDB Microelectrónica Microservicios (Oracle XE 21c).png" >
@@ -299,10 +299,10 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 
 <br>
 
-### Detalles
+### Details
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/db_microElectronica_OracleXE" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/db_microElectronica_OracleXE" target="_blank" rel="noopener noreferrer" title="Code"><img src="./doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a>
 </div>
 
 </div>
@@ -329,10 +329,10 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 
 <br>
 
-### Detalles
+### Details
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Microdb_Cisco_Devices_Mysql" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/Microdb_Cisco_Devices_Mysql" target="_blank" rel="noopener noreferrer" title="Code"><img src="./doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a>
 </div>
 
 </div>
@@ -359,10 +359,10 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 
 <br>
 
-### Detalles
+### Details
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/db_ElectroThings_MongoDB" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/db_ElectroThings_MongoDB" target="_blank" rel="noopener noreferrer" title="Code"><img src="./doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a>
 </div>
 
 </div>
@@ -389,10 +389,10 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 
 <br>
 
-### Detalles
+### Details
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/db_supermercado" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/db_supermercado" target="_blank" rel="noopener noreferrer" title="Code"><img src="./doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a>
 </div>
 
 </div>
@@ -419,10 +419,10 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 
 <br>
 
-### Detalles
+### Details
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL" target="_blank" rel="noopener noreferrer" title="Code"><img src="./doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a>
 </div>
 
 </div>
@@ -439,7 +439,7 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 <div align="center">
 
 <a id="microdb-inmobiliaria-microservicios-postgresql"></a>
-### MicroDB Inmobiliaria Microservicios (PostgreSQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
+### Real Estate Microservices MicroDB (PostgreSQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
 
 <a href="https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres" target="_blank">
   <img src="./doc/assets/img/projects/MicroDB Inmobiliaria Microservicios (PostgreSQL).png" >
@@ -449,10 +449,10 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 
 <br>
 
-### Detalles
+### Details
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres" target="_blank" rel="noopener noreferrer" title="Code"><img src="./doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a>
 </div>
 
 </div>
@@ -469,7 +469,7 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 <div align="center">
 
 <a id="db-indumentaria-mysql"></a>
-### DB Indumentaria (MySQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
+### Apparel DB (MySQL) ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
 
 <a href="https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql" target="_blank">
   <img src="./doc/assets/img/projects/DB Indumentaria (MySQL).png" >
@@ -479,10 +479,10 @@ Repositorio central para proyectos de bases de datos de tipo SQL/NoSQL: modelaci
 
 <br>
 
-### Detalles
+### Details
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql" target="_blank" rel="noopener noreferrer" title="Code"><img src="./doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a>
 </div>
 
 </div>
